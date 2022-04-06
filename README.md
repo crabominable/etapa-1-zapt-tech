@@ -1,4 +1,4 @@
-## etapa1 zapt tech
+## Primeira etapa Zapt Tech
 
 ### Desafios da etapa 1 do processo seletivo da Zapt Tech para dev
 
